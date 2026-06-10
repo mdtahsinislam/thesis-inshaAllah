@@ -1,0 +1,14 @@
+# Final Thesis Title _INSHA-ALLAH
+“A Comprehensive Comparative Genomic Data Science Analysis of Cancer and Liver Disease Datasets for the Identification of Differential Gene Expression Patterns and Disease-Associated Genetic Variations”
+
+
+#DATA SET  LINK:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE329336    ----- Cancer
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE280687   -----liver disease
+
+#GPT LINK
+First GPT LINK :  https://chatgpt.com/share/69a5302e-38f8-8002-be60-2874c04ab71e  
+Secound : https://chatgpt.com/share/6a28bb7d-e4f0-8322-addf-a08a17fc7a92
+
+
